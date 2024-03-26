@@ -1360,3 +1360,205 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.26-17.19.34:161][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
 [2024.03.26-17.19.34:161][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
 [2024.03.26-17.19.34:167][397]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-17.19.34:169][397]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.26-18.19.34
+[2024.03.26-17.19.34:170][397]LogWorld: Bringing up level for play took: 0.002192
+[2024.03.26-17.19.34:233][397]PIE: Server logged in
+[2024.03.26-17.19.34:233][397]PIE: Play in editor total start time 0,161 seconds.
+[2024.03.26-17.19.55:202][856]LogDerivedDataCache: C:/Users/ender/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 777 files in 1406 folders with total size 16 MiB.
+[2024.03.26-17.20.05:988][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.20.05:988][143]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.26-17.20.05:988][143]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.20.05:989][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.20.05:989][143]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.26-17.20.05:993][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-17.20.05:996][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.20.06:000][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.20.06:000][143]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.26-17.20.06:001][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.26-17.20.06:002][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.26-17.20.06:006][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.20.06:009][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.26-17.20.06:066][144]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.03.26-17.20.06:787][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.26-17.20.15:877][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.20.29:291][760]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.03.26-17.20.29:291][760]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.03.26-17.20.31:619][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.20.31:657][979]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.20.31:716][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.20.31:743][983]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.20.40:665][816]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.20.40:676][816]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.20.40:686][817]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.20.46:931][555]LogContentBrowser: Attempting asset rename: NewFolder -> Sem05
+[2024.03.26-17.20.46:931][555]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.21.01:567][120]LogMetaData: Removing '/Game/Sem05/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.01:567][120]LogMetaData: Removing '/Game/Sem05/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.01:567][120]LogMetaData: Removing '/Game/Sem05/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.01:567][120]LogMetaData: Removing '/Game/Sem05/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.01:567][120]LogMetaData: Removing '/Game/Sem05/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.01:571][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.21.01:598][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode" FILE="G:/ProjectSem05/Sem05Project/Sem05/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" SILENT=true
+[2024.03.26-17.21.01:604][120]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.005865 seconds
+[2024.03.26-17.21.01:611][120]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.03.26-17.21.01:611][120]LogSavePackage: Moving 'G:/ProjectSem05/Sem05Project/Sem05/Saved/BP_ThirdPersonGameMode168175A049A518AD35C8428DF1943B92.tmp' to 'G:/ProjectSem05/Sem05Project/Sem05/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.03.26-17.21.01:613][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.21.01:658][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sem05/BP_ThirdPersonCharacter" FILE="G:/ProjectSem05/Sem05Project/Sem05/Content/Sem05/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.03.26-17.21.01:658][120]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Sem05/BP_ThirdPersonCharacter does not exist, will not scan.
+[2024.03.26-17.21.01:672][120]LogSavePackage: Moving output files for package: /Game/Sem05/BP_ThirdPersonCharacter
+[2024.03.26-17.21.01:672][120]LogSavePackage: Moving 'G:/ProjectSem05/Sem05Project/Sem05/Saved/BP_ThirdPersonCharacter6CF735D84D4012D6B29B15ADEC931A26.tmp' to 'G:/ProjectSem05/Sem05Project/Sem05/Content/Sem05/BP_ThirdPersonCharacter.uasset'
+[2024.03.26-17.21.01:682][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms
+[2024.03.26-17.21.01:693][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.26-17.21.01:700][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.26-17.21.01:704][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.03.26-17.21.01:718][120]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-17.21.01:718][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.03.26-17.21.01:718][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Sem05/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.26-17.21.10:654][368]LogSlate: Window 'Message' being destroyed
+[2024.03.26-17.21.10:687][368]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_ThirdPersonGameMode
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.03.26-17.21.21:396][509]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.21.21:408][509]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.21.21:419][510]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.21.23:316][734]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.03.26-17.21.23:317][734]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.21.26:511][ 53]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.21.26:523][ 53]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.21.26:541][ 55]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.21.28:251][254]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2024.03.26-17.21.28:251][254]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.21.33:583][800]LogMetaData: Removing '/Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/Sem05/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.33:583][800]LogMetaData: Removing '/Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Sem05/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.33:583][800]LogMetaData: Removing '/Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/Sem05/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.33:583][800]LogMetaData: Removing '/Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Sem05/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.33:583][800]LogMetaData: Removing '/Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Sem05/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.26-17.21.33:584][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-17.21.33:613][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode" FILE="G:/ProjectSem05/Sem05Project/Sem05/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" SILENT=true
+[2024.03.26-17.21.33:616][800]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.03.26-17.21.33:616][800]LogSavePackage: Moving 'G:/ProjectSem05/Sem05Project/Sem05/Saved/BP_ThirdPersonGameModeA04554AC401166A7F2B37E9AA957A45C.tmp' to 'G:/ProjectSem05/Sem05Project/Sem05/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.03.26-17.21.33:651][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter" FILE="G:/ProjectSem05/Sem05Project/Sem05/Content/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.03.26-17.21.33:660][800]LogSavePackage: Moving output files for package: /Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter
+[2024.03.26-17.21.33:661][800]LogSavePackage: Moving 'G:/ProjectSem05/Sem05Project/Sem05/Saved/BP_ThirdPersonCharacter00B12D6B41D1B2BF06311A8BB80E4957.tmp' to 'G:/ProjectSem05/Sem05Project/Sem05/Content/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.uasset'
+[2024.03.26-17.21.33:670][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 196 ms)
+[2024.03.26-17.21.33:681][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.26-17.21.33:687][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.26-17.21.33:691][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.26-17.21.33:706][800]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-17.21.33:706][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.03.26-17.21.33:706][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Sem05/Blueprints/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.26-17.21.35:359][950]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.26-17.21.35:359][950]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.26-17.21.35:359][950]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 4 ms)
+[2024.03.26-17.21.35:359][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-17.21.35:360][950]PIE: New page: PIE session: ThirdPersonMap (26.03.2024, 19:21:35)
+[2024.03.26-17.21.35:395][950]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.03.26-17.21.35:397][950]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.03.26-17.21.35:417][951]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.26-17.21.35:420][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2024.03.26-17.21.35:420][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003344s)
+[2024.03.26-17.21.35:425][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.26-17.21.35:425][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-17.21.35:425][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-17.21.35:427][951]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.26-17.21.35:427][951]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.26-17.21.35:427][951]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.26-17.21.35:427][951]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.26-17.21.35:427][951]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.26-17.21.35:428][951]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.26-17.21.35:428][951]LogWorldPartition: Display: WorldPartition initialize took 825 us (total: 48 ms)
+[2024.03.26-17.21.35:428][951]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2024.03.26-17.21.35:428][951]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-17.21.35:428][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-17.21.35:428][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-17.21.35:429][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-17.21.35:429][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-17.21.35:429][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-17.21.35:431][951]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-17.21.35:450][951]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Logitech G733 Gaming Headset)
+[2024.03.26-17.21.35:450][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-17.21.35:450][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-17.21.35:450][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-17.21.35:451][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.03.26-17.21.35:451][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.03.26-17.21.35:453][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.03.26-17.21.35:453][951]LogInit: FAudioDevice initialized with ID 3.
+[2024.03.26-17.21.35:453][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.03.26-17.21.35:453][951]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.03.26-17.21.35:453][951]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.26-17.21.35:456][951]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.26-17.21.35:457][951]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.26-18.21.35
+[2024.03.26-17.21.35:457][951]LogWorld: Bringing up level for play took: 0.001551
+[2024.03.26-17.21.35:461][951]PIE: Server logged in
+[2024.03.26-17.21.35:461][951]PIE: Play in editor total start time 0,103 seconds.
+[2024.03.26-17.21.36:496][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.21.36:496][ 60]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.26-17.21.36:496][ 60]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-17.21.36:497][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.21.36:497][ 60]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.26-17.21.36:500][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-17.21.36:502][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-17.21.36:507][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-17.21.36:507][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.26-17.21.36:507][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.26-17.21.36:508][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.26-17.21.36:512][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-17.21.36:515][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.26-17.21.36:595][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.03.26-17.21.37:053][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.26-17.21.39:149][352]LogViewport: Scene viewport resized to 2033x795, mode Windowed.
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 0 (Found bundle for host: 0x494ab170000 [serially])
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 5 (Closing connection)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5912543-45BE-33F0-BFAF-D9A625508779%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=07e55227403484cfa8b1a1b3f589db70%7Cf9b1cb19b9054cecae7f094e5b95f47f%7Ceef36253-0399-417e-b9ee-38919c5a62fb&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 8 (  Trying 54.234.91.35:443...)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 9 (Connected to datarouter.ol.epicgames.com (54.234.91.35) port 443)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 10 (ALPN: curl offers http/1.1)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 11 (SSL reusing session ID)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 14 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 17 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 21 (old SSL session ID is stale, removing)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 22 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 23 (ALPN: server accepted http/1.1)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 24 (Server certificate:)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 25 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 26 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 27 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 28 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 29 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 30 ( SSL certificate verify ok.)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 31 (using HTTP/1.1)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 32 (necessary data rewind wasn't possible)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 33 (Closing connection)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: 0000049518DF7D00: libcurl info message cache 34 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.26-17.22.16:612][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5912543-45BE-33F0-BFAF-D9A625508779%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=07e55227403484cfa8b1a1b3f589db70%7Cf9b1cb19b9054cecae7f094e5b95f47f%7Ceef36253-0399-417e-b9ee-38919c5a62fb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.26-17.25.01:977][316]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.26-17.25.03:371][428]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.26-17.25.03:385][428]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.26-17.25.03:397][429]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.26-17.25.08:998][811]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2024.03.26-17.25.08:999][811]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.26-17.26.35:126][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.26-17.26.36:516][746]LogSlate: Window 'Message' being destroyed
+[2024.03.26-17.26.36:524][746]Message dialog closed, result: Ok, title: Message, text: No files were found to move
